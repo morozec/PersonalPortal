@@ -1,0 +1,9 @@
+*.user
+.vs
+PersonalPortal/bin
+PersonalPortal/obj
+PersonalPortal/node_modules
+Models/bin
+Models/obj
+DBRepository/bin
+DBRepository/obj
